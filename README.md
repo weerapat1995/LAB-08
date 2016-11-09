@@ -820,19 +820,22 @@ namespace Lab8._3
                     message = "sun is Sunday ,color Red";
                     break;
                 case "MON":
-                    message = "mon is Monday ,color Red";
+                    message = "mon is Monday ,color Yellow";
                     break;
                 case "TUE":
-                    message = "tue is Tuesday ,color Red";
+                    message = "tue is Tuesday ,color Pink";
                     break;
                 case "WED":
-                    message = "wed is Wednesday ,color Red";
+                    message = "wed is Wednesday ,color Green";
+                    break;
+                case "THU":
+                    message = "fri is Friday ,color Orange";
                     break;
                 case "FRI":
-                    message = "fri is Friday ,color Red";
+                    message = "fri is Friday ,color Blue";
                     break;
                 case "SAT":
-                    message = "sat is Saturday ,color Red";
+                    message = "sat is Saturday ,color Purple";
                     break;
                 default:
                     message = "sat is --- ,color ---";
